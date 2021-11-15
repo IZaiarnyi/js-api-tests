@@ -3,7 +3,7 @@ import {Request} from "../request"
 
 const baseUrl = CONFIG.API_URL;
 
-export class PlacementController {
+export class PlacementApi {
 
     static async getSticky() {
         return (

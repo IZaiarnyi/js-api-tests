@@ -1,6 +1,6 @@
 {
   "name": "js-api-tests",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Jest automation framework for Users API",
   "main": "index.js",
   "scripts": {
