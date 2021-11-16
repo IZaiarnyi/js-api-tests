@@ -6,3 +6,9 @@ Here is a list of main components:
 * [Allure2](https://github.com/allure-framework/allure2) report
 
 The main focus of this project is to develop a lightweight and scalable solution for testing API with minimum dependencies
+
+In case of local run please execute the next commands:
+```
+npm install
+npm run test
+```
